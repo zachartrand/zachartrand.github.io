@@ -4,7 +4,7 @@
 
 [Python Chess program](/Chess)
 
-[Quaternion Module](https://github.com/zachartrand/Quaternions)
+[Quaternion Module](/Quaternions)
 
 [Playing Card Module](https://github.com/zachartrand/PlayingCards)
 
