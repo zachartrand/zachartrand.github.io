@@ -6,7 +6,9 @@
 
 [Quaternion Module](/Quaternions)
 
-[Playing Card Module](https://github.com/zachartrand/PlayingCards)
+[Playing Card Module](https://github.com/zachartrand/Playing-Cards)
+
+[Project Euler solutions](https://github.com/zachartrand/Project-Euler)
 
 ## Web Design
 
