@@ -10,6 +10,8 @@
 
 [Project Euler solutions](https://github.com/zachartrand/Project-Euler)
 
+[Pokémon machine-learning project](https://share.streamlit.io/zachartrand/pokemon-machine-learning/machine-learning-pokemon.py)
+
 ## Web Design
 
 [Refurbished 2004 Website](/Refurbished-Website)
